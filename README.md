@@ -7,8 +7,10 @@ Charte graphique de la **Fédération des Jeunes Révolutionnaires - IVe Interna
 ### Rouge
 
 Couleur principale, référence au drapeau rouge.  
-Sur fond blanc, elle est utilisée comme **couleur d’accentuation** (éléments graphiques, mots d'ordre, etc.).  
-Elle peut également servir de **couleur de fond**, combinée avec le blanc pour le texte et autres éléments graphiques.
+
+**Sur fond blanc**, elle peut être utilisée pour les éléments graphiques non textuels et les textes en emphase (e.g. les mots d'ordre).  
+
+Elle peut aussi être utilisée comme **couleur d'arrière-plan**, au quel cas tous les éléments (textuels et non textuels) devront être blancs.
 
 <span aria-hidden="true">
   <svg width="20" height="20" viewBox="0 0 20 20"
@@ -31,8 +33,9 @@ rgb(211, 16, 39)
 
 ### Noir
 
-Couleur de texte privilégiée sur fond blanc, utilisée aussi pour les titres.  
-Elle apporte **lisibilité**, **sobriété** et **contraste**, en complément du rouge, quant à lui utilisé pour les autres éléments graphiques.
+**Sur fond blanc**, couleur utilisée pour tous les éléments textuels, exceptés es textes en emphase, qui peuvent au choix être rouge ou noir.  
+
+**Sur fond rouge**, le noir est proscrit (en raison du contraste trop faible).
 
 <span aria-hidden="true">
   <svg width="20" height="20" viewBox="0 0 20 20"
@@ -55,8 +58,7 @@ rgb(0, 0, 0)
 
 ### Blanc
 
-Sur fond rouge, utilisé comme **couleur de texte, et d'accentuation** pour les autres éléments graphiques.  
-Elle renforce la **clarté visuelle** et la **lisibilité**.
+**Sur fond rouge**, couleur utilisée pour tous les éléments (textuels et non textuels).
 
 <span aria-hidden="true">
   <svg width="20" height="20" viewBox="0 0 20 20"
