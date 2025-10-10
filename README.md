@@ -2,6 +2,58 @@
 
 Charte graphique de la **Fédération des Jeunes Révolutionnaires - IVe Internationale**.
 
+## Logos
+
+### Présentation du système de logos
+
+Chaque logo (national ou local) est décliné en 4 versions :  
+- **Logo noir sur fond transparent :** à utiliser sur arrière-plan blanc.  
+  ![](logos-officiels/national/fond-transparent/vectoriel/logo-fjr-4-national-noir-fond-transparent.svg)
+- **Logo blanc sur fond transparent :** à utiliser sur arrière-plan rouge.
+    ![](logos-officiels/national/fond-transparent/vectoriel/logo-fjr-4-national-blanc-fond-transparent.svg)
+- **Logo blanc sur fond rouge :** à utiliser sur tout support numérique dont l'arrière-plan n'est ni blanc ni rouge.  
+    ![](logos-officiels/national/fond-couleur/vectoriel/logo-fjr-4-national-blanc-fond-rouge.svg)
+- **Logo noir sur fond blanc :** à utiliser sur support imprimable dont l'arrière-plan n'est pas blanc.
+  ![](logos-officiels/national/fond-couleur/vectoriel/logo-fjr-4-national-noir-fond-blanc.svg)
+
+### Logos - National
+
+#### Fond coloré
+
+##### Blanc sur fond rouge
+
+![](logos-officiels/national/fond-couleur/vectoriel/logo-fjr-4-national-blanc-fond-rouge.svg)
+
+##### Noir sur fond blanc
+
+![](logos-officiels/national/fond-couleur/vectoriel/logo-fjr-4-national-noir-fond-blanc.svg)
+
+#### Fond transparent
+
+##### Noir
+
+![](logos-officiels/national/fond-transparent/vectoriel/logo-fjr-4-national-noir-fond-transparent.svg)
+
+##### Blanc
+
+![](logos-officiels/national/fond-transparent/vectoriel/logo-fjr-4-national-blanc-fond-transparent.svg)
+
+### Logos - Local
+
+(à compléter)
+
+## Réseaux sociaux
+
+### Photos de profil
+
+#### National
+
+![](photos-de-profil/national/vectoriel/photo-de-profil-fjr-4-national.svg)
+
+#### Local
+
+(à compléter)
+
 ## Palette de couleurs
 
 ### $\color{#d31027}▆$ Rouge
